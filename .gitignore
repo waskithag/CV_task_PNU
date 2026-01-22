@@ -1,0 +1,5 @@
+/data_crawl
+*.mp4
+*.pt
+**/classification/data
+**/object_detection/data
